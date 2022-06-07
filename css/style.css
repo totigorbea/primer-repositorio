@@ -2,5 +2,9 @@
     max-width:550px ;
     margin: 0 auto;
     text-align: center;
-    background-color: grey;
+    background-color: rgb(186, 144, 27);
+}
+h2{
+    font-family: sans-serif;
+    color: crimson;
 }
